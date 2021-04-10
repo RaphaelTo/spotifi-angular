@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/ed50ca31-f5ab-4942-83db-54b4c9f57a9c/resourceGroups/Cours/providers/Microsoft.Web/sites/Angular-spotifi",
+    "appService.deploySubpath": "."
+}
